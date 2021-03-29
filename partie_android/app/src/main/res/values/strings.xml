@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Kervel</string>
+
+    <string-array name="Spinner_items">
+        <item>fauche </item>
+        <item>entree </item>
+        <item>epareuse</item>
+        <item>elagage</item>
+        <item>saillie</item>
+
+    </string-array>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+      AIzaSyCHyfoQUeeUB-hXLR-JVpv9C235lrKvU2A
+ </string>
+    <string name="default_name">"JJ/MM/AAAA"</string>
+    <string name="title_activity_parcelle">Map</string>
+</resources>
